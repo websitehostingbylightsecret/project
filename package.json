@@ -1,8 +1,0 @@
-{
-  "name": "surat-untuk-azza-dari-ilham",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "build": "echo Build selesai"
-  }
-}
