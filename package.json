@@ -1,9 +1,8 @@
 {
-  "name": "my-vercel-app",
+  "name": "surat-untuk-azza-dari-ilham",
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "echo \"No dev script\"",
-    "build": "echo \"Static build ready\""
+    "build": "echo Build selesai"
   }
 }
